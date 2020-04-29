@@ -1,4 +1,4 @@
-# Firepit.js
+![Firepit.js](https://github.com/futurorandomico/firepit-js/blob/master/logo/firepit-landscape.png?raw=true)
 
 This software is nothing more than a tech demo
 It is not meant to be used in production
