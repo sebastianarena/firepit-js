@@ -2,6 +2,7 @@
 
 This software is nothing more than a tech demo
 It is not meant to be used in production
+Install a local Redis Server with its default configuration to test the examples
 
 ## Demo Examples - Simple
 
