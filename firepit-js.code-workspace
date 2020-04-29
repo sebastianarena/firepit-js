@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"javascript.validate.enable": false,
+		"eslint.enable": false,
+    "standard.enable": true,
+    "standard.autoFixOnSave": true,
+		"editor.tabSize": 2,
+    "editor.detectIndentation": false
+	}
+}
