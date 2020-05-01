@@ -12,7 +12,7 @@ class ClusterMaster extends ClusterWorker {
     self.config.numCPUs = os.cpus().length
     self.config.workersByType = config.workersByType || {}
     self.config.log = config.log || {}
-    self.config.log.maxEntries = parseInt(self.config.log.maxEntries || 0) || 80
+    self.config.log.maxEntries = parseInt(self.config.log.maxEntries || 0) || 15
     self.workersByType = {}
     self.workersTypeByPID = {}
     self.workersStatusByPID = {}
