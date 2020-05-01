@@ -1,26 +1,33 @@
-![Firepit.js](https://github.com/futurorandomico/firepit-js/blob/master/logo/firepit-landscape.png?raw=true)
+![Firepit.js][logo]
 
-This software is nothing more than a tech demo
+_Disclaimer: This software is nothing more than a tech demo
 It is not meant to be used in production
-Install a local Redis Server with its default configuration to test the examples
+Install a local Redis Server with its default configuration to test the examples_
 
-## Demo Examples - Simple
+## How it works
 
-`examples/simple`
+![How it works][explained]
 
-See Demo at: https://www.youtube.com/watch?v=A36X3IWfRP4
-[![Firepit.js - Demo Examples - Simple](https://img.youtube.com/vi/A36X3IWfRP4/0.jpg)](https://www.youtube.com/watch?v=A36X3IWfRP4 "Firepit.js - Demo Examples - Simple")
+## Demo: Simple
 
-## Demo Examples - Benchmarking
+Located at `examples/simple`
 
-`examples/benchmarking`
+![Demo: Simple][example-simple]
 
-See Demo at: https://www.youtube.com/watch?v=t909u2R1HCU
-[![Firepit.js - Demo Examples - Benchmarking](https://img.youtube.com/vi/t909u2R1HCU/0.jpg)](https://www.youtube.com/watch?v=t909u2R1HCU "Firepit.js - Demo Examples - Benchmarking")
+## Demo: Benchmarking
 
-## Demo Examples - Throughput
+Located at `examples/benchmarking`
 
-`examples/throughput`
+![Demo: Simple][example-benchmarking]
 
-See Demo at: https://www.youtube.com/watch?v=diP3cY3BVaw
-[![Firepit.js - Demo Examples - Throughput](https://img.youtube.com/vi/diP3cY3BVaw/0.jpg)](https://www.youtube.com/watch?v=diP3cY3BVaw "Firepit.js - Demo Examples - Throughput")
+## Demo: Throughput
+
+Located at `examples/throughput`
+
+![Demo: Simple][example-throughput]
+
+[logo]: https://github.com/futurorandomico/firepit-js/blob/master/logo/firepit-landscape.png?raw=true "Logo"
+[explained]: https://github.com/futurorandomico/firepit-js/blob/master/animations/explained.gif?raw=true "Demo: Simple"
+[example-simple]: https://github.com/futurorandomico/firepit-js/blob/master/animations/examples-simple.gif?raw=true "Demo: Simple"
+[example-benchmarking]: https://github.com/futurorandomico/firepit-js/blob/master/animations/examples-benchmarking.gif?raw=true "Demo: Benchmarking"
+[example-throughput]: https://github.com/futurorandomico/firepit-js/blob/master/animations/examples-throughput.gif?raw=true "Demo: Throughput"
