@@ -3,7 +3,9 @@
 _Disclaimer:_
 
 _This software is nothing more than a tech demo_
+
 _It is not meant to be used in production_
+
 _Install a local Redis Server with its default configuration to test the examples_
 
 ## How it works
